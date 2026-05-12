@@ -10,6 +10,10 @@
   --border: #e5e5e5;
   --card: #ffffff;
   --card-foreground: #171717;
+
+  /* 代码块颜色 */
+  --code-bg: #f6f8fa;
+  --code-border: #d0d7de;
 }
 
 .dark {
@@ -22,6 +26,10 @@
   --border: #262626;
   --card: #171717;
   --card-foreground: #ededed;
+
+  /* 代码块颜色 - 深色模式 */
+  --code-bg: #161b22;
+  --code-border: #30363d;
 }
 
 @theme inline {
