@@ -14,7 +14,9 @@
       "Bash(pnpm next *)",
       "Bash(pnpm dev *)",
       "Bash(pnpm list *)",
-      "Bash(pnpm vitest *)"
+      "Bash(pnpm vitest *)",
+      "Bash(pnpm dlx *)",
+      "Bash(pnpm tsc *)"
     ]
   }
 }
